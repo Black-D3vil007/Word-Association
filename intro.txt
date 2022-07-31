@@ -1,0 +1,29 @@
+.getElementById()
+.querySelector()
+.querSelectorAll()
+addEventListener()
+removeEventListener()
+.append()
+.appendChild()
+.forEach()
+.map()
+.length
+.firstChild
+.lastChild
+.removeChild()
+.style
+.reduce()
+.createElement()
+.classList.add()
+.classList.remove()
+.setAttribute()
+.getAttribute()
+this
+.textContent  //  property to get the text of the <div> element:
+.push()
+.includes()
+.innerHTML
+Array.from()
+parseInt()
+while loop
+setTimeout()
